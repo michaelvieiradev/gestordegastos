@@ -1,0 +1,1 @@
+export const getDate = () => document.getElementById("selectMes").value = new Date().getMonth() + 1;
