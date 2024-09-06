@@ -32,7 +32,7 @@ body{
     max-width: 526px;
     height: 573px;
     background-color: var(--cor-back);
-    border-radius: 30px;
+    border-radius: 80px;
     flex-wrap: wrap;
 }
 .navegation{
